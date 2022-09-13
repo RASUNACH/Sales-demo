@@ -7,7 +7,7 @@ function Carousel_component(){
           <Carousel.Item>
             <img
               className="d-block w-100"
-              src="logo192.png?text=First slide&bg=373940"
+              src="logo512.png?text=First slide&bg=373940"
               alt="First slide"
             />
             <Carousel.Caption>
