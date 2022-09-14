@@ -45,4 +45,4 @@ function Carousel_component(){
       );
 }
 
-export default Carousel_component
+export default Carousel_component;
